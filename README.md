@@ -2,4 +2,4 @@
 Dice randomization
 
 Testing UI settings
-This app rolls two dice
+this app rolls two dice
